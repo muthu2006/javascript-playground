@@ -21,7 +21,6 @@ function checkNumberType(number) {
       return "Less than Zero";
    } else {
       return "Zero";
-
    }
 }
 
