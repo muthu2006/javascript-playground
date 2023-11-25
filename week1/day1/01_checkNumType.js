@@ -14,6 +14,7 @@
 
 */
 
+
 function checkNumberType(number) {
    if (number > 0) {
       return "Greater than Zero";
